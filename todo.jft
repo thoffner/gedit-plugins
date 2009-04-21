@@ -1,0 +1,7 @@
+% List of todo items to make gedit-plugins awesome
+
+	* New plugin: multi-edit (import and refine)
+	* New plugin: word completion (import and refine, use new completion)
+	* New plugin: snap open (use new completion)
+	* New plugin: semantic completion (e.g. calltips and stuff)
+	* New plugin: switch documents with completion
